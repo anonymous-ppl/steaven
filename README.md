@@ -1,16 +1,10 @@
-# project_flutter
+ 📱Rancho Blanco Virtual Tour Mobile Application
 
-A new Flutter project.
+Rancho Blanco Virtual Tour is mobile application built using Flutter to navigate through different places for guest exploration. This app enables the users to see the event center before going to the event center itself and allows the guests to explore the event center through their phones. It uses 360° images for more interactive way of exploring different places.
 
-## Getting Started
+## 📘Project Description
 
-This project is a starting point for a Flutter application.
+Visitors often find it challenging to explore large venues like event centers, especially when there is limited signage, staff assistance, or access to real-time information. This can lead to confusion, missed locations, and a less enjoyable experience for guests. Rancho Blanco, being a spacious event center, faced similar concerns from its visitors. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features
+- 🖼️360° Virtual tour using high-quality images
